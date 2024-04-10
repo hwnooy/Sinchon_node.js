@@ -1,0 +1,32 @@
+{
+  "name": "todo_sinchon",
+  "version": "1.0.0",
+  "description": "make todo list with node.js, database",
+  "main": "index.html",
+  "scripts": {
+    "test": "Jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hwnooy/SinchonTodoList_node.js.git"
+  },
+  "keywords": [
+    "todolist",
+    "with",
+    "database"
+  ],
+  "author": "heeju Jang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hwnooy/SinchonTodoList_node.js/issues"
+  },
+  "homepage": "https://github.com/hwnooy/SinchonTodoList_node.js#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.19.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.9.4",
+    "sequelize": "^6.37.2",
+    "sequelize-cli": "^6.6.2"
+  }
+}
